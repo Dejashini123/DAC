@@ -101,6 +101,11 @@ To write an assembly language program in 8086 to generate Sawtooth and Square wa
 
 <img width="531" height="299" alt="image" src="https://github.com/user-attachments/assets/d66ec15e-22e0-4589-9eec-a54bf861c765" />
 
+
+
+
+
+
 # SQUARE WAVEFORM
 
 <img width="533" height="397" alt="image" src="https://github.com/user-attachments/assets/a0563a2b-5b29-4916-887d-4457d0fa62ad" />
